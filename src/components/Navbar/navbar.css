@@ -1,0 +1,25 @@
+.logo{
+    width: 20rem;
+}
+
+.boton{
+    background-color: #00b0cb;
+}
+
+.navbar-toggler{
+    color: #5c7ae6 
+}
+
+.navbar{
+    background-color:  #00b0cb;
+}
+
+.textonav{
+    color:#061011;
+    font-size: 1.3rem;
+    
+}
+
+.texto:hover{
+    color:#03989e
+}
