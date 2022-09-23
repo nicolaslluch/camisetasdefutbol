@@ -1,0 +1,11 @@
+.greeting {
+    color:white;
+    background-color: #1f9f70;
+    opacity: 0.7;
+}
+
+.greeting:hover{
+    background-color: #1f9f70;
+    color: white;
+    opacity: 1;
+}
