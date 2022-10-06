@@ -1,30 +1,28 @@
 import './navbar.css'
 import CartWidget from '../Cartwidget/CartWidget'
+import { NavLink, Link } from 'react-router-dom'
 
 const Navbar = () => {
     return(
-        <nav class= "navbar-expand-lg navbar">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Camisetas</a>
-    <button class="navbar-toggler boton" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+        <nav className= "navbar-expand-lg navbar">
+  <div className="container-fluid">
+    <Link className="navbar-brand">Camisetas</Link>
+    <button className="navbar-toggler boton" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span classNameclassName="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link textonav" aria-current="page" href="#">Inicio</a>
+    <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
+      <ul className="navbar-nav">
+        <li className="nav-item">
+          <NavLink className="nav-link textonav" to={'/'} aria-current="page" >Inicio</NavLink>
         </li>
-        <li class="nav-item">
-          <a class="nav-link textonav" href="#">Nosotros</a>
+        <li className="nav-item">
+          <NavLink className="nav-link textonav" to={'/camisetas/historicas'} >Históricas</NavLink>
         </li>
-        <li class="nav-item">
-          <a class="nav-link textonav" href="#">Tienda</a>
+        <li className="nav-item">
+          <NavLink className="nav-link textonav" to={'/camisetas/actuales'} >Actuales</NavLink>
         </li>
-        <li class="nav-item">
-          <a class="nav-link textonav" href="#">Contacto</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link textonav " href="#"><CartWidget/></a>
+        <li className="nav-item">
+          <NavLink className="nav-link textonav " ><CartWidget/></NavLink>
         </li>
       </ul>
     </div>

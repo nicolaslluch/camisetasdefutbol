@@ -1,0 +1,282 @@
+[{
+    "id": 1,
+    "tipo": "historicas",
+    "stock": [
+      {
+        "talle": "S",
+        "stock": 10,
+        "stock2": 10
+      },
+      {
+        "talle": "M",
+        "stock": 10,
+        "stock2": 10
+      },
+      {
+        "talle": "L",
+        "stock": 10,
+        "stock2": 10
+      }
+    ],
+    "foto": [
+        "https://drive.google.com/uc?id=15gGdtWAHwh10GBUMN4fDZwgZTx8-zIN3&export=download"
+        ],
+    "equipo": "Penarol",
+    "pais": "Uruguay",
+    "precio": "3000"
+  },
+    
+  {
+    "id": 2,
+    "tipo": "historicas",
+    "stock": [
+        {
+            "talle": "S",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "M",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "L",
+            "stock": 10,
+            "stock2": 10
+          }
+    ],
+    "foto": [
+        "https://drive.google.com/uc?id=15gGdtWAHwh10GBUMN4fDZwgZTx8-zIN3&export=download"
+    ],
+    "equipo": "River",
+    "pais": "Argentina",
+    "precio": "2000"
+  },
+    
+  {
+    "id": 2,
+    "tipo": "historicas",
+    "stock": [
+        {
+            "talle": "S",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "M",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "L",
+            "stock": 10,
+            "stock2": 10
+          }
+    ],
+    "foto": [
+      "https://drive.google.com/uc?id=15gGdtWAHwh10GBUMN4fDZwgZTx8-zIN3&export=download"
+    ],
+    "equipo": "Boca",
+    "pais": "Argentina",
+    "precio": "2000"
+  },
+    
+  {
+    "id": 4,
+    "tipo": "historicas",
+    "stock": [
+        {
+            "talle": "S",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "M",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "L",
+            "stock": 10,
+            "stock2": 10
+          }
+    ],
+    "foto": [
+     "https://drive.google.com/uc?id=15gGdtWAHwh10GBUMN4fDZwgZTx8-zIN3&export=download"
+    ],
+    "equipo": "Flamengo",
+    "pais": "Brasil",
+    "precio": "2000"
+  },
+    
+  {
+    "id": 5,
+    "tipo": "historicas",
+    "stock": [
+        {
+            "talle": "S",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "M",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "L",
+            "stock": 10,
+            "stock2": 10
+          }
+    ],
+    "foto": [
+      "https://drive.google.com/uc?id=15gGdtWAHwh10GBUMN4fDZwgZTx8-zIN3&export=download"
+      
+    ],
+    "equipo": "Santos ",
+    "pais": "Brasil",
+    "precio": "2000"
+  },
+    
+  {
+    "id": 6,
+    "tipo": "historicas",
+    "stock": [
+        {
+            "talle": "S",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "M",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "L",
+            "stock": 10,
+            "stock2": 10
+          }
+    ],
+    "foto": [
+     "https://drive.google.com/uc?id=15gGdtWAHwh10GBUMN4fDZwgZTx8-zIN3&export=download"
+    ],
+    "equipo": "Real Madrid",
+    "pais": "Espana",
+    "precio": "3000"
+  },
+    
+  {
+    "id": 7,
+    "tipo": "actuales",
+    "stock": [
+        {
+            "talle": "S",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "M",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "L",
+            "stock": 10,
+            "stock2": 10
+          }
+    ],
+    "foto": [
+     "https://drive.google.com/uc?id=15gGdtWAHwh10GBUMN4fDZwgZTx8-zIN3&export=download"
+    ],
+    "equipo": "Penarol",
+    "pais": "Uruguay",
+    "precio": "3000"
+  },
+    
+  {
+    "id": 8,
+    "tipo": "actuales",
+    "stock": [
+        {
+            "talle": "S",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "M",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "L",
+            "stock": 10,
+            "stock2": 10
+          }
+    ],
+    "foto": [
+        "https://drive.google.com/uc?id=15gGdtWAHwh10GBUMN4fDZwgZTx8-zIN3&export=download"
+        ],
+    "equipo": "River",
+    "pais": "Argentina",
+    "precio": "2000"
+  },
+    
+  {
+    "id": 9,
+    "tipo": "actuales",
+    "stock": [
+        {
+            "talle": "S",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "M",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "L",
+            "stock": 10,
+            "stock2": 10
+          }
+    ],
+    "foto": [
+      "https://drive.google.com/uc?id=15gGdtWAHwh10GBUMN4fDZwgZTx8-zIN3&export=download"
+    ],
+    "equipo": "Boca",
+    "pais": "Argentina",
+    "precio": "2000"
+  },
+
+  {
+    "id": 10,
+    "tipo": "actuales",
+    "stock": [
+        {
+            "talle": "S",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "M",
+            "stock": 10,
+            "stock2": 10
+          },
+          {
+            "talle": "L",
+            "stock": 10,
+            "stock2": 10
+          }
+    ],
+    "foto": [
+      "https://drive.google.com/uc?id=15gGdtWAHwh10GBUMN4fDZwgZTx8-zIN3&export=download"
+    ],
+    "equipo": "Real Madrid",
+    "pais": "España",
+    "precio": "2000"
+  }
+
+]
